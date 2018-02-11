@@ -8,7 +8,7 @@ CREATE TABLE Offers(
 
 INSERT INTO Offers (Dday,Offer,UserID,Rate,Position,Aaction)
 VALUES('2/2/2017','avant',1,0.05,1,'Install'),
-VALUES('2/2/2017','avant',1,0.05,1,'Install'),
+('2/2/2017','avant',1,0.05,1,'Install'),
 ('2/2/2017','avant',1,0.12,3,'Install'),
 ('2/2/2017','avant',2,0.15,1,'Quit'),
 ('2/2/2017','avis',2,0.03,1,'Install'),
